@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/1rajlaxmi",
   resume: 
-    "https://drive.google.com/file/d/1IGSG0xCXynGriLH0HRfxJ2lQWMRGEvVr/view?usp=drive_link",
+    "https://firebasestorage.googleapis.com/v0/b/upload-image-8cc8d.appspot.com/o/ResumeRajlaxmi.pdf?alt=media&token=efa44a0c-e75e-4dce-a307-01504bb7ce0c",
   linkedin: "https://www.linkedin.com/in/rajlaxmi-cuh/",
   leetcode: "https://leetcode.com/u/rajlaxmi4121998/",
 };
